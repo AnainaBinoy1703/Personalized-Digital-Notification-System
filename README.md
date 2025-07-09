@@ -39,19 +39,19 @@ SDA        →       GPIO21
 
 This is the block-level view of how the system components interact.
 
-![Block Diagram](images/block.jpg)
+![Block Diagram](block.jpg)
 
-![Circuit Diagram](images/circuit.jpg)
+![Circuit Diagram](circuit.jpg)
 ## 📷 Display Output
 
 Here is a real-time view of the OLED display receiving messages from the Blynk app.
 
-![OLED Display](images/display.jpg)
+![OLED Display](display.jpg)
 
 ---
 
 ---
-![Flowchart](images/flowchart.jpg)
+![Flowchart](flowchart.jpg)
 ## 📜 License
 
 This project is licensed under the MIT License.
