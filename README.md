@@ -35,20 +35,20 @@ VCC        →       3.3V
 SCL        →       GPIO22  
 SDA        →       GPIO21  
 ```
-## 📷 Display Output
-
-Here is a real-time view of the OLED display receiving messages from the Blynk app.
-
-![OLED Display](images/display.jpg)
-![Circuit Diagram](images/circuit.jpg)
----
-
 ## 🧠 Block Diagram
 
 This is the block-level view of how the system components interact.
 
 ![Block Diagram](images/block.jpg)
 
+![Circuit Diagram](images/circuit.jpg)
+## 📷 Display Output
+
+Here is a real-time view of the OLED display receiving messages from the Blynk app.
+
+![OLED Display](images/display.jpg)
+
+---
 
 ---
 ![Flowchart](images/flowchart.jpg)
